@@ -76,8 +76,8 @@ async def prediction_route(file: UploadFile = File(...)):
     e = sys.exc_info()[1]
     raise HTTPException(status_code=500, detail=str(e))
     
-# import nest_asyncio
-# nest_asyncio.apply()
+import nest_asyncio
+nest_asyncio.apply()
 
-# if __name__ == '__main__':
-#     uvicorn.run(app, host='127.0.0.1', port=8000)
+if __name__ == '__main__':
+     uvicorn.run(app, host='127.0.0.1', port=8000)
