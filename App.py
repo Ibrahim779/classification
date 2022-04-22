@@ -15,7 +15,7 @@ women_categories = ['Dresses_Casual_Women', 'Evening_Dresses_Women',
               'Shorts_Bottom_Sport_Women', 'Skirts_Bottom_Casual_Women',
               'Skirts_Bottom_Formal_Women', 'Suits_Bottom_Formal_Women',
               'Suits_Sport_Women', 'Tshirts_Top_Sport_Women',
-              'Tops_Casual_Women', 'Tops_Top_Formal_Women', 'Trousers_Bottom_Sport_Women']
+              'Top_Casual_Women', 'Top_Formal_Women', 'Trousers_Bottom_Sport_Women']
 
 men_categories = ['Jackets_Top_Casual_Men', 'Jackets_Top_Formal_Men',
               'Jackets_Top_Sport_Men','Shirts_Top_Casual_Men',
